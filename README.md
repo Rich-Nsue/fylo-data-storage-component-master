@@ -1,2 +1,2 @@
 # fylo-data-storage-component-master
-fylo-data-storage-component-master a fronten_mentor challenge
+fylo-data-storage-component-master a frontend_mentor challenge
